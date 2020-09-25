@@ -68,7 +68,7 @@ else {
             <img src="imagenes/LOGO.png" alt="" style="margin-bottom: 50px;" class="circle responsive-img valign profile-image-login">
             
                <ul>
-                <li>PARA INGRESAR TECLEE:</li>
+                <li>Para ingresar teclee:</li>
                  <li>Usuario:admin</li>
                  <li>Contraseña:123</li>
                         
